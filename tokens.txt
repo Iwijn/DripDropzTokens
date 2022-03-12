@@ -18,15 +18,25 @@ ptc: official currency of Pocket Towne game
 mm: token to get you a spot in an nft airdrop
 projectbookworm: a chapter every epoch
 resi: living greens urban farmer dapp
+dix: metaverse token, Mateland, PlaymateSociety
+motleymoon: token that helps you get a spot in an nft drop
+adafox: nft community that buys and discusses nft's
+koz: allows you to participate in Politikoz's goverance and on-site features (nft sales platform and stakepool)
+sweet: token of card game where nft characters that can be used
+lookz: token for WyldLookz nft's
 
 bad:
+mystery: enigmatic token?
+token: token of appreciation to stake pool delegators
 charleshoskinsonwhiteboard
 nido: fan token
 broom
 didits
 soul: 333rd token, 7.8B minted
 grow: many buzzwords
+growth: many buzzwords
 eusko: token of pool
+iblecoin: weird and unclear explanations, some kind of financial platform with no central team or funding
 
 meme:
 bison
@@ -48,6 +58,9 @@ bbhosky
 cbthc
 lobster
 strippercoin
+
+unclear:
+xt
 
 gone frop dripdropz:
 newm: music streaming platform that cuts the middleman
