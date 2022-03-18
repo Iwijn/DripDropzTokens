@@ -24,8 +24,10 @@ adafox: nft community that buys and discusses nft's
 koz: allows you to participate in Politikoz's goverance and on-site features (nft sales platform and stakepool)
 sweet: token of card game where nft characters that can be used
 lookz: token for WyldLookz nft's
+virus: nft
 
 bad:
+merkaba: token for daily payments?
 mystery: enigmatic token?
 token: token of appreciation to stake pool delegators
 charleshoskinsonwhiteboard
